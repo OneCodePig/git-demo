@@ -1,6 +1,6 @@
 hello git!
 hello git!
 hello git!
-hello git!
 hello git! master
-Now is modified by master branch 
+hello git! hot-fix
+hello git! 
