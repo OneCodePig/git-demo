@@ -4,3 +4,4 @@ hello git!
 hello git!
 hello git!
 Now is modified by hot-fix branch
+master modified test
