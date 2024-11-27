@@ -3,4 +3,4 @@ hello git!
 hello git!
 hello git!
 hello git!
-This is the second modifeid!
+Now is modified by hot-fix branch
