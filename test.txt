@@ -1,6 +1,6 @@
 hello git!
 hello git!
 hello git!
-hello git!
+hello git! hot-fix
 hello git! This is modified by hot-fix
 Now is modified by hot-fix branch
